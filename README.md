@@ -1,4 +1,6 @@
-# UI Design（Web && App）
+# UI Design（Web）
+ 
+**There is a video show how to use the website. **
 
 ### Main Content: 
 
@@ -12,5 +14,5 @@
 
 ### Way to run it:
 
-​	 Chrome, you need to install axure plug-in
+​	Open "index.html" with Chrome, you need to install axure plug-in
 
